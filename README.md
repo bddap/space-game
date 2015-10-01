@@ -1,4 +1,4 @@
 # space-game
-Do space stuff with newtonian physics.
+three.js space game
 
-I am using this project to learn Haskell.
+I hope to dynamically assign keys to thrusters.
