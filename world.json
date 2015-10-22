@@ -1,0 +1,42 @@
+[
+  {
+    "pos":[10,0,0,0], "vel":[0,0,0],
+    "structure":[
+      {"loc":[1,0,0],"type":"asteroid"},
+      {"loc":[0,1,0],"type":"asteroid"},
+      {"loc":[0,0,1],"type":"asteroid"},
+      {"loc":[1,1,1],"type":"asteroid"}
+    ]
+  },
+  {
+    "pos":[-2,0,5,0], "vel":[0,0,0],
+    "structure":[
+      {"loc":[1,0,0],"type":"asteroid"},
+      {"loc":[0,1,0],"type":"asteroid"},
+      {"loc":[0,0,1],"type":"asteroid"},
+      {"loc":[1,1,1],"type":"asteroid"}
+    ]
+  },
+  {
+    "pos":[0,4,0,0], "vel":[0,0,0],
+    "structure":[
+      {"loc":[1,0,0],"type":"asteroid"},
+      {"loc":[0,1,0],"type":"asteroid"},
+      {"loc":[0,0,1],"type":"asteroid"},
+      {"loc":[1,1,1],"type":"asteroid"}
+    ]
+  },
+  {
+    "pos":[3,-8,-2,0], "vel":[0,0,0],
+    "structure":[
+      {"loc":[1,0,0],"type":"asteroid"},
+      {"loc":[0,1,0],"type":"asteroid"},
+      {"loc":[0,0,1],"type":"asteroid"},
+      {"loc":[1,1,1],"type":"asteroid"},
+      {"loc":[2,0,0],"type":"asteroid"},
+      {"loc":[0,2,0],"type":"asteroid"},
+      {"loc":[0,0,2],"type":"asteroid"},
+      {"loc":[2,2,2],"type":"asteroid"}
+    ]
+  }
+]

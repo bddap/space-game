@@ -12,6 +12,8 @@ document.body.appendChild( renderer.domElement );
 
 window.addEventListener( 'resize', onWindowResize, false );
 
+hidescrollbars();
+
 function onWindowResize() {
 	camera.aspect = window.innerWidth / window.innerHeight;
 	camera.updateProjectionMatrix();
@@ -25,4 +27,9 @@ function render(functionToDoEachFrame) {
      renderer.render( scene, camera );
   }
   compo();
+}
+
+function hidescrollbars() {
+    document.documentElement.style.overflow = 'hidden';  // firefox, chrome
+    //document.body.scroll = "no"; // ie only
 }
