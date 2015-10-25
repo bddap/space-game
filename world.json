@@ -1,6 +1,6 @@
 [
   {
-    "pos":[10,0,0,0], "vel":[0,0,0],
+    "pos":[10,0,0],"epoch":0, "vel":[0.01,0.02,0],"rot":{"axis":[1,0,0], "angle":1},"rotvel":{"axis":[1,0,0], "angle":1},
     "structure":[
       {"loc":[1,0,0],"type":"asteroid"},
       {"loc":[0,1,0],"type":"asteroid"},
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "pos":[-2,0,5,0], "vel":[0,0,0],
+    "pos":[-2,0,5],"epoch":0, "vel":[0,0.1,0],"rot":{"axis":[0,1,0], "angle":1},"rotvel":{"axis":[0,1,0], "angle":1},
     "structure":[
       {"loc":[1,0,0],"type":"asteroid"},
       {"loc":[0,1,0],"type":"asteroid"},
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "pos":[0,4,0,0], "vel":[0,0,0],
+    "pos":[0,4,0],"epoch":0, "vel":[0,0,2],"rot":{"axis":[0,0,1], "angle":1},"rotvel":{"axis":[0,0,1], "angle":1},
     "structure":[
       {"loc":[1,0,0],"type":"asteroid"},
       {"loc":[0,1,0],"type":"asteroid"},
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "pos":[3,-8,-2,0], "vel":[0,0,0],
+    "pos":[3,-8,-2],"epoch":0, "vel":[0,0,0],"rot":{"axis":[1,0,0], "angle":0},"rotvel":{"axis":[1,0,0], "angle":0},
     "structure":[
       {"loc":[1,0,0],"type":"asteroid"},
       {"loc":[0,1,0],"type":"asteroid"},
