@@ -38,5 +38,11 @@
       {"loc":[0,0,2],"type":"asteroid"},
       {"loc":[2,2,2],"type":"asteroid"}
     ]
+  },
+  {
+    "pos":[-5,-8,2],"epoch":0, "vel":[0,0,0],"rot":{"axis":[1,0,0], "angle":0},"rotvel":{"axis":[1,-1,1], "angle":1},
+    "structure":[
+      {"loc":[10,0,0],"type":"asteroid"}
+    ]
   }
 ]
